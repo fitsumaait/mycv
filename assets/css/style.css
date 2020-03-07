@@ -1,4 +1,4 @@
-/* with element selectors .. */
+/* applying background color with element selectors .. */
 body{
 
    background-color: skyblue;
@@ -6,4 +6,24 @@ body{
 header
 {
     background-color: rgba(119, 90, 90, 0.6);
+}
+/*  applying font with element, class  selectors..*/
+section
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+article
+{
+    font-size: 15px;
+}
+.title
+{
+    font-size: 23px;
+    font-weight: bold;
+}
+.date
+{
+    font-style: italic;
+    font-size: 14px;
 }
