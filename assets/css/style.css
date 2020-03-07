@@ -16,6 +16,8 @@ section
 article
 {
     font-size: 15px;
+    text-align: justify;
+    line-height: 25px;
 }
 .title
 {
@@ -26,4 +28,5 @@ article
 {
     font-style: italic;
     font-size: 14px;
+    text-transform: ;
 }
