@@ -2,6 +2,7 @@
 body{
 
    background-color: skyblue;
+   border: 10px lightgrey solid ;
 }
 header
 {
@@ -30,3 +31,4 @@ article
     font-size: 14px;
     text-transform: uppercase;
 }
+/* Applying border  */
