@@ -3,6 +3,7 @@ body{
 
    background-color: skyblue;
    border: 10px lightgrey solid ;
+   margin: 10px;
 }
 header
 {
@@ -12,6 +13,7 @@ header
 section
 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 5px 30px;
 
 }
 article
@@ -31,4 +33,3 @@ article
     font-size: 14px;
     text-transform: uppercase;
 }
-/* Applying border  */
