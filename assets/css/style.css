@@ -56,6 +56,18 @@ nav > ul > li:hover
     background-color: #ffffff;
     
 }
-
-
+/* Image floating  and clearing*/
+img
+{
+    float: left;
+    border-radius: 100%;
+    border-style: hidden;
+    width: 250px;
+    height: 250px;
+    margin: 0px 15px 0px 3px;
+}
+#clear
+{
+    clear: left;
+}
 
