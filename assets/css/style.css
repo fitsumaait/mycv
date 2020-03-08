@@ -87,7 +87,7 @@ input[type="text"], input[type="email"]
 input[type="email"]
 {
     position: relative;
-    left: 10px;
+    left: 130px;
 }
 input[type="submit"]
 {
